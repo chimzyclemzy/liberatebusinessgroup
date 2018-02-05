@@ -2248,6 +2248,8 @@ body {
 .cid-qI1dWQxlrZ .media-content {
   padding-right: 1.5rem;
   padding-left: 0;
+  padding-right: 0;
+  padding-left: 1.5rem;
 }
 .cid-qI1dWQxlrZ .mbr-section-btn {
   margin-left: -0.8rem;
@@ -2256,6 +2258,10 @@ body {
   width: 500px;
   height: 450px;
   margin-bottom: 1.6rem;
+}
+.cid-qI1dWQxlrZ .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
 }
 @media (max-width: 767px) {
   .cid-qI1dWQxlrZ .mbr-text {
